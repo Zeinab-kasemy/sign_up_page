@@ -1,0 +1,24 @@
+body{color: rgb(127, 153, 255);}
+.container{
+    width: 400px; max-width: 400px
+    ;background-color: rgb(250, 244, 244); color: black; border: 10px, solid, black;
+border-radius: var(border-radius) ; }
+button {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(17, 10, 119);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+ }
+ button:hover {
+    opacity:1;
+ }
+ .cancel {
+    padding: 14px 20px;
+    background-color: #ff3d2f;
+ }
